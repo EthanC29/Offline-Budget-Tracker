@@ -1,6 +1,7 @@
 # Offline Budget Tracker
 
 ## Description
+
 A Budget Tracker that can be used while offline and updates the online database when you reconnect so it can still be used even if there is little to no network connectivity. 
 
 ## User Story
